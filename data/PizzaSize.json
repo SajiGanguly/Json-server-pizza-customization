@@ -1,0 +1,18 @@
+[{
+    "id":1,
+    "pizzaSize":"regular",
+    "slices":4,
+    "price":200
+},
+{
+    "id":2,
+    "pizzaSize":"medium",
+    "slices":6,
+    "price":450
+},{
+    "id":3,
+    "pizzaSize":"large",
+    "slices":8,
+    "price":870
+}]
+

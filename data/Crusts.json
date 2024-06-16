@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "thin",
+    "price": 0
+  },
+  {
+    "id": 2,
+    "type": "cheese-burst",
+    "price": 100
+  },
+
+  {
+    "id": 3,
+    "type": "stuffed",
+    "price": 150
+  },
+  {
+    "id": 4,
+    "type": "thick",
+    "price": 180
+  },
+  {
+    "id": 5,
+    "type": "gluten-free",
+    "price": 200
+  }
+
+]
